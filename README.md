@@ -1,2 +1,2 @@
-# NCChallenge_VanillaJS_Day3
+# NCChallenge_VanillaJS
 Created with CodeSandbox
